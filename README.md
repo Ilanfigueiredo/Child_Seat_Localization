@@ -1,6 +1,6 @@
 # Child Seat Localization - AI Tech Challange 
 
-**This is an challenge for AI developer or people who likes AI.**
+**This is a challenge for AI developer or people who likes AI.**
 * Title: Child Seat Localization
 * Goal: build AI solution for child seat localization in the passenger vehicle
 * Problem statement: localization of the child seat in the passenger vehicle enable the business to high-level services and use cases
