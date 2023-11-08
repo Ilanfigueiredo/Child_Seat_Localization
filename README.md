@@ -5,7 +5,7 @@
 * Goal: build AI solution for child seat localization in the passenger vehicle
 * Problem statement: localization of the child seat in the passenger vehicle enable the business to high-level services and use cases
 * Data set used: [SVIRO](https://sviro.kl.dfki.de/) e [TICaM](https://vizta-tof.kl.dfki.de/cabin-dataset/)
-* Participant: Dr. Ilan Sousa Figueiredo
+* Author: Dr. Ilan Sousa Figueiredo
 
 ### Message to the user:
 
