@@ -1,0 +1,11 @@
+'names':
+  !!int '0': 'Empty child seat'
+'nc': !!int '1'
+'path': '../datasets/'
+'test':
+- 'test_with_labels/images/sviro'
+'train':
+- 'train/images/sviro'
+- 'train/images/ticam'
+'val':
+- 'test_with_labels/images/sviro'
