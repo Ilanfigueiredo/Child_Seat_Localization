@@ -8,7 +8,7 @@
 
 <img src="https://github.com/Ilanfigueiredo/Child_Seat_Localization/assets/31046784/66b17f1a-e9e6-4dea-a888-e228cbe4c212" width="600">
 
-### Message to participants:
+### Challenge Overview:
 
 I invite developers and AI enthusiasts to participate in the Child Seat Location Challenge. Challenges-them surpass my results achieved in this task. I highly recommend evaluating your AI model's performance on this challenge before reviewing my solution. Afterward, compare your results with mine and kindly inform me of your success (ilan.figueiredo@gmail.com). This repository serves as a valuable benchmark, study resource, and reference. Feel free to utilize the code in any way you find beneficial. However, if you incorporate this proposed benchmark into your work, please acknowledge this source.
 
