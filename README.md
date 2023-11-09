@@ -11,19 +11,21 @@
 
 ### Message to the user:
 
+I invite AI developers and enthusiasts to surpass my achieved results in this challenge. I highly recommend evaluating your AI model's performance on this challenge before reviewing my solution. Afterward, compare your results with mine and kindly inform me of your success (ilan.figueiredo@gmail.com). This repository serves as a valuable benchmark, study resource, and reference. Feel free to utilize the code in any way you find beneficial. However, if you incorporate this proposed benchmark into your work, please acknowledge this source.
+
 I challenge AI developers or pepople who likes AI to overcome my achieved results. I highly recommend testing your AI model on this challenge before viewing my solution. Then compare whether you managed to overcome my results, and please let me know if you do (ilan.figueiredo@gmail.com). This repository can be used as a benchmark, study material or reference. Anyway, fell free to use the code as you like. However, If you use the this proposed benchmark in your work, please cite this page.
 
-The code has been meticulously crafted to execute sequentially in four distinct steps, spanning from data acquisition to model evaluation. These key steps include:
+The code has been meticulously designed to be executed sequentially in four distinct steps, covering data acquisition to model evaluation.  These key steps include:
 
 1. Data Retrieval
 2. Pre-processing
 3. Training
 4. Inference and Evaluation
 
-Should you encounter any challenges accessing the materials, please do not hesitate to reach out for assistance.
+If you encounter any challenges accessing the materials, please don't hesitate to reach out for assistance.
 
-Good luck!
+Wishing you the best of luck!
 
-Best regards,
+Warm regards,
 
 Dr. Ilan Sousa Figueirêdo
