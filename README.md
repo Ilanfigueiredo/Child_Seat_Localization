@@ -9,7 +9,7 @@
 
 ### Message to the user:
 
-I challenge AI developers or pepople who likes AI to overcome my achieved results.I highly recommend testing your AI model on this task and seeing if you can do better, and please let me know if you do (ilan.figueiredo@gmail.com). This repository can be used as a benchmark, study material or reference. Anyway, fell free to use the code as you like.
+I challenge AI developers or pepople who likes AI to overcome my achieved results. I highly recommend testing your AI model on this challenge before viewing my solution. Then compare whether you managed to overcome my results, and please let me know if you do (ilan.figueiredo@gmail.com). This repository can be used as a benchmark, study material or reference. Anyway, fell free to use the code as you like. However, If you use the this proposed benchmark in your work, please cite this page.
 
 The code has been meticulously crafted to execute sequentially in four distinct steps, spanning from data acquisition to model evaluation. These key steps include:
 
