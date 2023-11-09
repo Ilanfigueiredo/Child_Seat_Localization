@@ -7,7 +7,7 @@
 * Data set used: [SVIRO](https://sviro.kl.dfki.de/) e [TICaM](https://vizta-tof.kl.dfki.de/cabin-dataset/)
 * Author: Dr. Ilan Sousa Figueiredo
 
-![image](https://github.com/Ilanfigueiredo/Child_Seat_Localization/assets/31046784/66b17f1a-e9e6-4dea-a888-e228cbe4c212)
+<img src="https://github.com/Ilanfigueiredo/Child_Seat_Localization/assets/31046784/66b17f1a-e9e6-4dea-a888-e228cbe4c212" width="300">
 
 ### Message to the user:
 
